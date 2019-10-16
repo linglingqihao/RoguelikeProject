@@ -1,0 +1,2 @@
+/Users/mh/Desktop/拾荒者/RoguelikeProject/obj/Debug/Assembly-CSharp.csprojResolveAssemblyReference.cache
+/Users/mh/Desktop/拾荒者/RoguelikeProject/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
